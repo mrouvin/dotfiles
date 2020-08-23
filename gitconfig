@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = matthieu.rouvin@gmail.com
+	email = bidi.github@gmail.com
 	name = Matthieu Rouvin
